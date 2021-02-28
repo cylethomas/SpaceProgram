@@ -1,0 +1,13 @@
+C:\Users\cylet\source\repos\Templates\bin\Debug\netcoreapp3.1\Templates.exe
+C:\Users\cylet\source\repos\Templates\bin\Debug\netcoreapp3.1\Templates.deps.json
+C:\Users\cylet\source\repos\Templates\bin\Debug\netcoreapp3.1\Templates.runtimeconfig.json
+C:\Users\cylet\source\repos\Templates\bin\Debug\netcoreapp3.1\Templates.runtimeconfig.dev.json
+C:\Users\cylet\source\repos\Templates\bin\Debug\netcoreapp3.1\Templates.dll
+C:\Users\cylet\source\repos\Templates\bin\Debug\netcoreapp3.1\Templates.pdb
+C:\Users\cylet\source\repos\Templates\obj\Debug\netcoreapp3.1\Templates.csprojAssemblyReference.cache
+C:\Users\cylet\source\repos\Templates\obj\Debug\netcoreapp3.1\Templates.AssemblyInfoInputs.cache
+C:\Users\cylet\source\repos\Templates\obj\Debug\netcoreapp3.1\Templates.AssemblyInfo.cs
+C:\Users\cylet\source\repos\Templates\obj\Debug\netcoreapp3.1\Templates.csproj.CoreCompileInputs.cache
+C:\Users\cylet\source\repos\Templates\obj\Debug\netcoreapp3.1\Templates.dll
+C:\Users\cylet\source\repos\Templates\obj\Debug\netcoreapp3.1\Templates.pdb
+C:\Users\cylet\source\repos\Templates\obj\Debug\netcoreapp3.1\Templates.genruntimeconfig.cache
