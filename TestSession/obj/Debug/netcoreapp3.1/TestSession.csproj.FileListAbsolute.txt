@@ -1,0 +1,13 @@
+C:\Users\dsaunders\Source\Repos\SpaceProgram\TestSession\bin\Debug\netcoreapp3.1\TestSession.exe
+C:\Users\dsaunders\Source\Repos\SpaceProgram\TestSession\bin\Debug\netcoreapp3.1\TestSession.deps.json
+C:\Users\dsaunders\Source\Repos\SpaceProgram\TestSession\bin\Debug\netcoreapp3.1\TestSession.runtimeconfig.json
+C:\Users\dsaunders\Source\Repos\SpaceProgram\TestSession\bin\Debug\netcoreapp3.1\TestSession.runtimeconfig.dev.json
+C:\Users\dsaunders\Source\Repos\SpaceProgram\TestSession\bin\Debug\netcoreapp3.1\TestSession.dll
+C:\Users\dsaunders\Source\Repos\SpaceProgram\TestSession\bin\Debug\netcoreapp3.1\TestSession.pdb
+C:\Users\dsaunders\Source\Repos\SpaceProgram\TestSession\obj\Debug\netcoreapp3.1\TestSession.csprojAssemblyReference.cache
+C:\Users\dsaunders\Source\Repos\SpaceProgram\TestSession\obj\Debug\netcoreapp3.1\TestSession.AssemblyInfoInputs.cache
+C:\Users\dsaunders\Source\Repos\SpaceProgram\TestSession\obj\Debug\netcoreapp3.1\TestSession.AssemblyInfo.cs
+C:\Users\dsaunders\Source\Repos\SpaceProgram\TestSession\obj\Debug\netcoreapp3.1\TestSession.csproj.CoreCompileInputs.cache
+C:\Users\dsaunders\Source\Repos\SpaceProgram\TestSession\obj\Debug\netcoreapp3.1\TestSession.dll
+C:\Users\dsaunders\Source\Repos\SpaceProgram\TestSession\obj\Debug\netcoreapp3.1\TestSession.pdb
+C:\Users\dsaunders\Source\Repos\SpaceProgram\TestSession\obj\Debug\netcoreapp3.1\TestSession.genruntimeconfig.cache

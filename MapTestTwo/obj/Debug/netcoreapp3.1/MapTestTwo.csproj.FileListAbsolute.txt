@@ -11,3 +11,16 @@ C:\Users\cylet\source\repos\MapTestTwo\obj\Debug\netcoreapp3.1\MapTestTwo.csproj
 C:\Users\cylet\source\repos\MapTestTwo\obj\Debug\netcoreapp3.1\MapTestTwo.dll
 C:\Users\cylet\source\repos\MapTestTwo\obj\Debug\netcoreapp3.1\MapTestTwo.pdb
 C:\Users\cylet\source\repos\MapTestTwo\obj\Debug\netcoreapp3.1\MapTestTwo.genruntimeconfig.cache
+C:\Users\dsaunders\Source\Repos\SpaceProgram\MapTestTwo\bin\Debug\netcoreapp3.1\MapTestTwo.exe
+C:\Users\dsaunders\Source\Repos\SpaceProgram\MapTestTwo\bin\Debug\netcoreapp3.1\MapTestTwo.deps.json
+C:\Users\dsaunders\Source\Repos\SpaceProgram\MapTestTwo\bin\Debug\netcoreapp3.1\MapTestTwo.runtimeconfig.json
+C:\Users\dsaunders\Source\Repos\SpaceProgram\MapTestTwo\bin\Debug\netcoreapp3.1\MapTestTwo.runtimeconfig.dev.json
+C:\Users\dsaunders\Source\Repos\SpaceProgram\MapTestTwo\bin\Debug\netcoreapp3.1\MapTestTwo.dll
+C:\Users\dsaunders\Source\Repos\SpaceProgram\MapTestTwo\bin\Debug\netcoreapp3.1\MapTestTwo.pdb
+C:\Users\dsaunders\Source\Repos\SpaceProgram\MapTestTwo\obj\Debug\netcoreapp3.1\MapTestTwo.csprojAssemblyReference.cache
+C:\Users\dsaunders\Source\Repos\SpaceProgram\MapTestTwo\obj\Debug\netcoreapp3.1\MapTestTwo.AssemblyInfoInputs.cache
+C:\Users\dsaunders\Source\Repos\SpaceProgram\MapTestTwo\obj\Debug\netcoreapp3.1\MapTestTwo.AssemblyInfo.cs
+C:\Users\dsaunders\Source\Repos\SpaceProgram\MapTestTwo\obj\Debug\netcoreapp3.1\MapTestTwo.csproj.CoreCompileInputs.cache
+C:\Users\dsaunders\Source\Repos\SpaceProgram\MapTestTwo\obj\Debug\netcoreapp3.1\MapTestTwo.dll
+C:\Users\dsaunders\Source\Repos\SpaceProgram\MapTestTwo\obj\Debug\netcoreapp3.1\MapTestTwo.pdb
+C:\Users\dsaunders\Source\Repos\SpaceProgram\MapTestTwo\obj\Debug\netcoreapp3.1\MapTestTwo.genruntimeconfig.cache

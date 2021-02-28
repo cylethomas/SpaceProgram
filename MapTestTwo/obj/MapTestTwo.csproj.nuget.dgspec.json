@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cylet\\source\\repos\\MapTestTwo\\MapTestTwo.csproj": {}
+    "C:\\Users\\dsaunders\\Source\\Repos\\SpaceProgram\\MapTestTwo\\MapTestTwo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cylet\\source\\repos\\MapTestTwo\\MapTestTwo.csproj": {
+    "C:\\Users\\dsaunders\\Source\\Repos\\SpaceProgram\\MapTestTwo\\MapTestTwo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cylet\\source\\repos\\MapTestTwo\\MapTestTwo.csproj",
+        "projectUniqueName": "C:\\Users\\dsaunders\\Source\\Repos\\SpaceProgram\\MapTestTwo\\MapTestTwo.csproj",
         "projectName": "MapTestTwo",
-        "projectPath": "C:\\Users\\cylet\\source\\repos\\MapTestTwo\\MapTestTwo.csproj",
-        "packagesPath": "C:\\Users\\cylet\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cylet\\source\\repos\\MapTestTwo\\obj\\",
+        "projectPath": "C:\\Users\\dsaunders\\Source\\Repos\\SpaceProgram\\MapTestTwo\\MapTestTwo.csproj",
+        "packagesPath": "C:\\Users\\dsaunders\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dsaunders\\Source\\Repos\\SpaceProgram\\MapTestTwo\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\cylet\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\dsaunders\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +25,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files (x86)\\Progress\\Telerik UI for Blazor 2.21.0": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -54,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

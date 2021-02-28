@@ -27,6 +27,30 @@ namespace MapTestTwo
             return value;
         }
 
+        static int[] GetInput(string keyBoard)
+        {
+            int[] coords = new int[] { 0, 0 };  // this is what we'll return as a result and it'll store the X movement or Y movement as [X,Y]
+            string ucKeyBoard = keyBoard.ToUpper();  // We'll set it ToUpper() so we only have to consider the uppercase options.
+
+            switch (ucKeyBoard)
+            {
+                case "S":
+                    coords[0] = 1;
+                    return coords;
+                case "W":
+                    coords[0] = -1;
+                    return coords;
+                case "D":
+                    coords[1] = 1;
+                    return coords;
+                case "A":
+                    coords[1] = -1;
+                    return coords;
+                default:
+                    return coords;
+            }
+        }
+
 
         static void Main(string[] args)
         {
@@ -67,14 +91,10 @@ namespace MapTestTwo
             Console.Read();
             Console.Clear();
             keyBoard = Console.ReadLine();
-            if (keyBoard == "S") { test.Xcord = +1; }
-            if (keyBoard == "s") { test.Xcord = +1; }
-            if (keyBoard == "W") { test.Xcord = -1; }
-            if (keyBoard == "w") { test.Xcord = -1; }
-            if (keyBoard == "D") { test.Ycord = +1; }
-            if (keyBoard == "d") { test.Ycord = +1; }
-            if (keyBoard == "A") { test.Ycord = -1; }
-            if (keyBoard == "a") { test.Ycord = -1; };
+
+            int[] movement = GetInput(keyBoard);
+            test.Xcord += movement[0];
+            test.Ycord += movement[1];
 
 
             while ( keyBoard != "g")
