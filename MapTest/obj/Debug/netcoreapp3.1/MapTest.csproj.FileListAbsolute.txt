@@ -1,0 +1,13 @@
+C:\Users\cylet\source\repos\MapTest\bin\Debug\netcoreapp3.1\MapTest.exe
+C:\Users\cylet\source\repos\MapTest\bin\Debug\netcoreapp3.1\MapTest.deps.json
+C:\Users\cylet\source\repos\MapTest\bin\Debug\netcoreapp3.1\MapTest.runtimeconfig.json
+C:\Users\cylet\source\repos\MapTest\bin\Debug\netcoreapp3.1\MapTest.runtimeconfig.dev.json
+C:\Users\cylet\source\repos\MapTest\bin\Debug\netcoreapp3.1\MapTest.dll
+C:\Users\cylet\source\repos\MapTest\bin\Debug\netcoreapp3.1\MapTest.pdb
+C:\Users\cylet\source\repos\MapTest\obj\Debug\netcoreapp3.1\MapTest.csprojAssemblyReference.cache
+C:\Users\cylet\source\repos\MapTest\obj\Debug\netcoreapp3.1\MapTest.AssemblyInfoInputs.cache
+C:\Users\cylet\source\repos\MapTest\obj\Debug\netcoreapp3.1\MapTest.AssemblyInfo.cs
+C:\Users\cylet\source\repos\MapTest\obj\Debug\netcoreapp3.1\MapTest.csproj.CoreCompileInputs.cache
+C:\Users\cylet\source\repos\MapTest\obj\Debug\netcoreapp3.1\MapTest.dll
+C:\Users\cylet\source\repos\MapTest\obj\Debug\netcoreapp3.1\MapTest.pdb
+C:\Users\cylet\source\repos\MapTest\obj\Debug\netcoreapp3.1\MapTest.genruntimeconfig.cache
